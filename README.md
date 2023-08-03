@@ -1,1 +1,1 @@
-# hivetokenminer
+# HCFMiner
